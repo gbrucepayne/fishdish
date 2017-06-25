@@ -42,6 +42,8 @@ global startSong
 global endSong
 
 logfileName = 'fishdish.log'
+if _rpi:
+    logfileName = '/home/pi/' + logfileName
 logging.basicConfig(filename=logfileName, level=logging.DEBUG,
                         format='%(asctime)s.%(msecs)03d,(%(threadName)-10s),[%(levelname)s],%(message)s',
                         datefmt='%Y-%m-%d %H:%M:%S')
@@ -49,7 +51,7 @@ logging.basicConfig(filename=logfileName, level=logging.DEBUG,
 
 chargeRingtone = "Charge:d=4,o=5,b=108:8g4,8c,8e,8g.,16e,2g"
 
-smdRingtone = "SuperMarioDies:d=4,o=5,b=90:32c6,32c6,32c6,8p,16b,16f6,16p,16f6,16f.6,16e.6,16d6,16c6,16p,16e,16p,16c"
+smdRingtone = "SuperMarioDies:d=4,o=5,b=76:32c6,32c6,32c6,8p,16b,16f6,16p,16f6,16f.6,16e.6,16d6,16c6,16p,16e,16p,16c"
 
 
 class Song:
@@ -189,19 +191,19 @@ class Song:
 
     def playsong(self):
         """Plays the tune."""
-        # if _debug: print('Playing song: ' + self.title)
+        if _debug: logging.debug('Playing song: ' + self.title)
         tempo = 108.0 / float(self.tempo)
         notes = len(self.notes)
         note = 0
         while note < notes:
             duration = tempo / float(self.durations[note])
-            # if _debug: print('Playing note ' + self.notes[note] + ' for ' + str(duration) + ' seconds.')
+            if _debug: logging.debug('Playing note ' + self.notes[note] + ' for ' + str(duration) + ' seconds.')
             pitch = self.tones[self.notes[note]]
             if pitch > 0:
                 if self.piezo:
                     audible = GPIO.PWM(BUZZER, pitch)
-                    dutyCycle = 1.0
-                    audible.start(dutyCycle)
+                    dcVolume = 1.0
+                    audible.start(dcVolume)   # volume is represented by Duty Cycle in the range 0..100
                     time.sleep(duration)
                     audible.stop()
                 else:
@@ -212,7 +214,7 @@ class Song:
             note += 1
 
     def play(self):
-        threading.Thread(target=self.playsong).start()
+        threading.Thread(name='song' + self.title, target=self.playsong).start()
 
     def parseRTTL(self, ringtone):
         """Parses the Nokia RTTL format text file to create a song made of tempo, notes and durations.
@@ -273,7 +275,10 @@ class Song:
 
 def flashled(ledpin=LED_GRN, frequency=1.0, cycles=1):
     """Toggles a LED """
-    tick = int(cycles)
+    if cycles > 0:
+        tick = int(cycles)
+    elif cycles == 0:
+        tick = 1
     LEDstate = False
     while tick > 0:
         if not LEDstate:
@@ -283,6 +288,8 @@ def flashled(ledpin=LED_GRN, frequency=1.0, cycles=1):
             GPIO.output(ledpin, GPIO.LOW)
             LEDstate = False
             tick -= 1
+        if cycles == 0:
+            tick = 1
         time.sleep(frequency / 2.0)
 
 
@@ -295,6 +302,13 @@ def shutdown(channel):
 
     SD_COUNTDOWN = 5
     SD_CMD = 'sudo shutdown -h now'
+
+    debounce_count = 0
+    while debounce_count < 1:
+        if not GPIO.input(BUTTON):
+            return
+        debounce_count += 1
+        time.sleep(1)
 
     if not _shutdown:
         if _debug: print("Halt request via GPIO input #" + str(BUTTON))
@@ -319,6 +333,16 @@ def shutdown(channel):
             os.system(SD_CMD)
 
 
+def splash():
+    print('\n')
+    print('\\-\\    \\-------\\')
+    print(' \\ -----       --\\')
+    print('  \\  FISH DISH    \\')
+    print('   /  HEADLESS    O -\\')
+    print('  <.................../')
+    print('\n')
+
+
 def main():
     global _debug
     global _shutdown
@@ -329,11 +353,14 @@ def main():
 
     # Derive run options from command line
     parser = argparse.ArgumentParser(description='Fishdish GPIO interface')
-    parser.add_argument('-d', '--debug', dest='debug', action='store_true', help='Run in debug mode')
+    parser.add_argument('-d', '--debug', dest='debug', action='store_true', help='run in debug mode (virtual shutdown)')
     # TODO: add some parameters to optionally customize the tune played on startup and shutdown
 
     args = parser.parse_args()
     _debug = args.debug
+
+    if _debug:
+        splash()
 
     startSong = Song(piezo=_rpi)
     startSong.parseRTTL(chargeRingtone)
@@ -351,7 +378,7 @@ def main():
         for led in leds:
             GPIO.output(led, GPIO.LOW)
 
-        threading.Thread(target=flashled, args=(LED_GRN, 1.0, 3)).start()
+        threading.Thread(name='init_flash', target=flashled, args=(LED_GRN, 1.0, 3)).start()
 
         startSong.play()
 
@@ -362,8 +389,13 @@ def main():
         while True:
             pass
 
+    except KeyboardInterrupt:
+        msg = 'Fishdish program halted by keyboard interrupt.'
+        print(msg)
+        logging.info(msg)
+
     except Exception, e:
-        logging.error("Error: " + str(e))
+        logging.error('Error: ' + str(e))
 
     finally:
         GPIO.cleanup()
