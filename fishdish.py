@@ -300,13 +300,18 @@ def shutdown(channel):
     global _shutdown
     global endSong
 
+    SD_DEBOUNCE = 3
     SD_COUNTDOWN = 5
     SD_CMD = 'sudo shutdown -h now'
 
     debounce_count = 0
-    while debounce_count < 1:
+    while debounce_count < SD_DEBOUNCE:
         if not GPIO.input(BUTTON):
+            if _debug:
+                print('Input button not held high. Shutdown avoided.')
             return
+        if _debug:
+            print('Button debounce count: ' + str(debounce_count))
         debounce_count += 1
         time.sleep(1)
 
