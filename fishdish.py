@@ -359,7 +359,7 @@ def main():
     # Derive run options from command line
     parser = argparse.ArgumentParser(description='Fishdish GPIO interface')
     parser.add_argument('-d', '--debug', dest='debug', action='store_true', help='run in debug mode (virtual shutdown)')
-    # TODO: add some parameters to optionally customize the tune played on startup and shutdown
+    # TODO: add some parameters to optionally customize/validate the tune played on startup and shutdown
 
     args = parser.parse_args()
     _debug = args.debug
