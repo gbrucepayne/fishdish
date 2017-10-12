@@ -94,7 +94,9 @@ class GPIO(object):
         'SPI0 CS1': 26,
         'GPIO7': 26,
         'ID_SD': 27,
+        'GPIO0': 27,
         'ID_SC': 28,
+        'GPIO1': 28,
         'GPIO5': 29,
         'GND7': 30,
         'GPIO6': 31,
@@ -223,6 +225,7 @@ class GPIO(object):
         return pin
 
     def getchannel(self, pinref):
+        channel = 99  # unknown
         for key, val in self.board_map.iteritems():
             if val == pinref and key.startswith("GPIO"):
                 channel = key.strip("GPIO")
