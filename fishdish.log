@@ -1,0 +1,1259 @@
+2017-10-08 14:04:49.969,(MainThread),[INFO],main(426),Debug enabled
+2017-10-08 14:04:50.042,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-08 14:04:50.046,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-08 14:07:06.342,(MainThread),[INFO],main(411),Debug enabled
+2017-10-08 14:07:06.398,(songCharge),[DEBUG],playsong(214),Playing song: Charge
+2017-10-08 14:07:06.401,(songCharge),[DEBUG],playsong(220),Playing note G4 for 0.125 seconds.
+2017-10-08 14:07:06.566,(songCharge),[DEBUG],playsong(220),Playing note C5 for 0.125 seconds.
+2017-10-08 14:07:06.730,(songCharge),[DEBUG],playsong(220),Playing note E5 for 0.125 seconds.
+2017-10-08 14:07:06.894,(songCharge),[DEBUG],playsong(220),Playing note G5 for 0.2 seconds.
+2017-10-08 14:07:07.170,(songCharge),[DEBUG],playsong(220),Playing note E5 for 0.0625 seconds.
+2017-10-08 14:07:07.252,(songCharge),[DEBUG],playsong(220),Playing note G5 for 0.5 seconds.
+2017-10-08 14:07:50.209,(MainThread),[INFO],main(412),Debug enabled
+2017-10-08 14:07:50.278,(songCharge),[DEBUG],playsong(214),Playing song: Charge
+2017-10-08 14:07:50.279,(songCharge),[DEBUG],playsong(220),Playing note G4 for 0.125 seconds.
+2017-10-08 14:07:50.446,(songCharge),[DEBUG],playsong(220),Playing note C5 for 0.125 seconds.
+2017-10-08 14:07:50.611,(songCharge),[DEBUG],playsong(220),Playing note E5 for 0.125 seconds.
+2017-10-08 14:07:50.775,(songCharge),[DEBUG],playsong(220),Playing note G5 for 0.2 seconds.
+2017-10-08 14:07:51.039,(songCharge),[DEBUG],playsong(220),Playing note E5 for 0.0625 seconds.
+2017-10-08 14:07:51.121,(songCharge),[DEBUG],playsong(220),Playing note G5 for 0.5 seconds.
+2017-10-08 14:09:52.516,(MainThread),[INFO],main(413),Debug enabled
+2017-10-08 14:09:52.520,(songCharge),[DEBUG],playsong(215),Playing song: Charge
+2017-10-08 14:09:52.522,(songCharge),[DEBUG],playsong(221),Playing note G4 for 0.125 seconds.
+2017-10-08 14:09:52.687,(songCharge),[DEBUG],playsong(221),Playing note C5 for 0.125 seconds.
+2017-10-08 14:09:52.851,(songCharge),[DEBUG],playsong(221),Playing note E5 for 0.125 seconds.
+2017-10-08 14:09:53.015,(songCharge),[DEBUG],playsong(221),Playing note G5 for 0.2 seconds.
+2017-10-08 14:09:53.278,(songCharge),[DEBUG],playsong(221),Playing note E5 for 0.0625 seconds.
+2017-10-08 14:09:53.359,(songCharge),[DEBUG],playsong(221),Playing note G5 for 0.5 seconds.
+2017-10-08 14:10:27.040,(MainThread),[INFO],main(413),Debug enabled
+2017-10-08 14:10:27.046,(songCharge),[DEBUG],playsong(215),Playing song: Charge
+2017-10-08 14:10:27.048,(songCharge),[DEBUG],playsong(221),Playing note G4 for 0.125 seconds.
+2017-10-08 14:10:27.210,(songCharge),[DEBUG],playsong(221),Playing note C5 for 0.125 seconds.
+2017-10-08 14:10:27.375,(songCharge),[DEBUG],playsong(221),Playing note E5 for 0.125 seconds.
+2017-10-08 14:10:27.538,(songCharge),[DEBUG],playsong(221),Playing note G5 for 0.2 seconds.
+2017-10-08 14:10:27.801,(songCharge),[DEBUG],playsong(221),Playing note E5 for 0.0625 seconds.
+2017-10-08 14:10:27.882,(songCharge),[DEBUG],playsong(221),Playing note G5 for 0.5 seconds.
+2017-10-08 14:19:01.115,(MainThread),[INFO],main(415),Debug enabled
+2017-10-08 14:19:01.118,(MainThread),[INFO],main(419),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-08 14:19:01.121,(songCharge),[DEBUG],playsong(215),Playing song: Charge
+2017-10-08 14:19:01.122,(songCharge),[DEBUG],playsong(221),Playing note G4 for 0.125 seconds.
+2017-10-08 14:19:01.286,(songCharge),[DEBUG],playsong(221),Playing note C5 for 0.125 seconds.
+2017-10-08 14:19:01.451,(songCharge),[DEBUG],playsong(221),Playing note E5 for 0.125 seconds.
+2017-10-08 14:19:01.615,(songCharge),[DEBUG],playsong(221),Playing note G5 for 0.2 seconds.
+2017-10-08 14:19:01.878,(songCharge),[DEBUG],playsong(221),Playing note E5 for 0.0625 seconds.
+2017-10-08 14:19:01.960,(songCharge),[DEBUG],playsong(221),Playing note G5 for 0.5 seconds.
+2017-10-08 14:19:39.967,(MainThread),[INFO],main(415),Debug enabled
+2017-10-08 14:19:39.967,(MainThread),[INFO],main(419),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-08 14:19:39.970,(songCharge),[DEBUG],playsong(215),Playing song: Charge
+2017-10-08 14:19:39.971,(songCharge),[DEBUG],playsong(221),Playing note G4 for 0.125 seconds.
+2017-10-08 14:19:40.135,(songCharge),[DEBUG],playsong(221),Playing note C5 for 0.125 seconds.
+2017-10-08 14:19:40.299,(songCharge),[DEBUG],playsong(221),Playing note E5 for 0.125 seconds.
+2017-10-08 14:19:40.463,(songCharge),[DEBUG],playsong(221),Playing note G5 for 0.2 seconds.
+2017-10-08 14:19:40.724,(songCharge),[DEBUG],playsong(221),Playing note E5 for 0.0625 seconds.
+2017-10-08 14:19:40.808,(songCharge),[DEBUG],playsong(221),Playing note G5 for 0.5 seconds.
+2017-10-08 14:21:47.608,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-08 21:58:19.042,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-08 22:02:43.973,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:08:18.921,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:15:16.674,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:17:13.999,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:20:48.438,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:22:07.984,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:23:55.496,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:25:07.865,(MainThread),[ERROR],main(453),Error: 'GPIO9'
+2017-10-09 21:36:03.436,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:38:20.605,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:39:36.700,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:44:25.688,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-09 21:50:55.717,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 21:04:11.792,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 21:05:36.697,(MainThread),[INFO],main(418),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 21:57:41.960,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 21:58:39.049,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 21:59:21.058,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 22:00:42.007,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 22:02:56.226,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 22:08:26.713,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 22:08:26.713,(MainThread),[ERROR],main(457),Error: list indices must be integers, not dict
+2017-10-10 22:09:57.796,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 22:09:57.798,(MainThread),[ERROR],main(457),Error: list indices must be integers, not dict
+2017-10-10 22:10:18.210,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 22:10:18.210,(MainThread),[ERROR],main(457),Error: list indices must be integers, not dict
+2017-10-10 22:11:04.608,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 22:11:04.608,(MainThread),[ERROR],main(457),Error: list indices must be integers, not dict
+2017-10-10 22:12:35.891,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 22:14:58.207,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:15:15.562,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:15:15.565,(MainThread),[ERROR],main(456),Error: global name 'initial' is not defined
+2017-10-10 23:15:51.671,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:17:03.002,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:19:40.019,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:22:06.039,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:30:49.059,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:43:29.002,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:46:11.739,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:46:36.288,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:46:45.168,(monitor_26),[INFO],shutdown(348),Halt request via GPIO input #7
+2017-10-10 23:49:54.842,(MainThread),[INFO],main(417),Debug enabled
+2017-10-10 23:49:54.842,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:49:54.845,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-10 23:49:54.846,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-10 23:49:55.009,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-10 23:49:55.174,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-10 23:49:55.338,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-10 23:49:55.598,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-10 23:49:55.680,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-10 23:50:11.523,(monitor_26),[INFO],shutdown(348),Halt request via GPIO input #7
+2017-10-10 23:50:11.526,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-10 23:50:11.526,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-10 23:50:11.585,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-10 23:50:11.644,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-10 23:50:11.703,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-10 23:50:11.934,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-10 23:50:12.051,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-10 23:50:12.167,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-10 23:50:12.283,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-10 23:50:12.400,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-10 23:50:12.585,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-10 23:50:12.772,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-10 23:50:12.888,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-10 23:50:13.003,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-10 23:50:13.119,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-10 23:50:13.236,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-10 23:50:13.351,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-10 23:51:45.069,(MainThread),[INFO],main(417),Debug enabled
+2017-10-10 23:51:45.069,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-10 23:51:45.072,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-10 23:51:45.072,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-10 23:51:45.236,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-10 23:51:45.401,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-10 23:51:45.563,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-10 23:51:45.825,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-10 23:51:45.907,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-10 23:52:05.424,(monitor_26),[INFO],shutdown(348),Halt request via GPIO input #7
+2017-10-10 23:52:11.632,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-10 23:52:11.634,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-10 23:52:11.693,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-10 23:52:11.753,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-10 23:52:11.811,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-10 23:52:12.043,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-10 23:52:12.160,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-10 23:52:12.275,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-10 23:52:12.391,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-10 23:52:12.506,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-10 23:52:12.693,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-10 23:52:12.878,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-10 23:52:12.994,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-10 23:52:13.111,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-10 23:52:13.226,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-10 23:52:13.342,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-10 23:52:13.459,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 00:01:07.515,(MainThread),[INFO],main(417),Debug enabled
+2017-10-11 00:01:07.516,(MainThread),[INFO],main(421),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:01:07.516,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:01:07.519,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:01:07.683,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:01:07.846,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:01:08.009,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:01:08.270,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:01:08.352,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:01:17.413,(monitor_26),[INFO],shutdown(348),Halt request via GPIO input #7
+2017-10-11 00:01:17.414,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:01:17.414,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:01:17.473,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:01:17.532,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:01:17.592,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 00:01:17.825,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 00:01:17.940,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:01:18.055,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:01:18.171,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:01:18.286,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 00:01:18.473,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 00:01:18.661,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 00:01:18.776,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 00:01:18.891,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:01:19.009,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 00:01:19.124,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:01:19.239,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 00:03:46.934,(MainThread),[INFO],main(419),Debug enabled
+2017-10-11 00:03:46.934,(MainThread),[INFO],main(423),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:03:46.937,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:03:46.937,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:03:47.101,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:03:47.265,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:03:47.428,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:03:47.690,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:03:47.772,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:03:53.703,(monitor_26),[INFO],shutdown(350),Halt request via GPIO input #7
+2017-10-11 00:03:53.704,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:03:53.704,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:03:53.763,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:03:53.823,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:03:53.882,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 00:03:54.114,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 00:03:54.230,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:03:54.345,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:03:54.463,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:03:54.578,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 00:03:54.765,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 00:03:54.951,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 00:03:55.068,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 00:03:55.183,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:03:55.299,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 00:03:55.417,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:03:55.532,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 00:04:52.782,(MainThread),[INFO],main(419),Debug enabled
+2017-10-11 00:04:52.782,(MainThread),[INFO],main(423),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:04:52.783,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:04:52.785,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:04:52.948,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:04:53.111,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:04:53.276,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:04:53.538,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:04:53.618,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:05:02.365,(monitor_26),[INFO],shutdown(350),Halt request via GPIO input #7
+2017-10-11 00:05:02.367,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:05:02.368,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:05:02.426,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:05:02.483,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:05:02.542,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 00:05:02.775,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 00:05:02.891,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:05:03.006,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:05:03.122,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:05:03.239,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 00:05:03.424,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 00:05:03.609,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 00:05:03.726,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 00:05:03.842,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:05:03.957,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 00:05:04.073,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:05:04.190,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 00:09:04.632,(MainThread),[INFO],main(419),Debug enabled
+2017-10-11 00:09:04.632,(MainThread),[INFO],main(423),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:09:04.635,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:09:04.637,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:09:04.799,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:09:04.963,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:09:05.127,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:09:05.388,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:09:05.470,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:09:12.726,(monitor_26),[INFO],shutdown(350),Halt request via GPIO input #7
+2017-10-11 00:09:12.727,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:09:12.729,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:14:28.960,(MainThread),[INFO],main(419),Debug enabled
+2017-10-11 00:14:28.960,(MainThread),[INFO],main(423),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:14:28.960,(MainThread),[ERROR],main(459),Error: 'NoneType' object has no attribute 'start'
+2017-10-11 00:14:46.278,(MainThread),[INFO],main(419),Debug enabled
+2017-10-11 00:14:46.278,(MainThread),[INFO],main(423),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:14:46.279,(MainThread),[ERROR],main(459),Error: 'NoneType' object has no attribute 'start'
+2017-10-11 00:15:14.344,(MainThread),[INFO],main(419),Debug enabled
+2017-10-11 00:15:14.344,(MainThread),[INFO],main(423),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:15:14.345,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:15:14.346,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:15:14.512,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:15:14.676,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:15:14.838,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:15:15.101,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:15:15.183,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:15:27.194,(monitor_26),[INFO],shutdown(350),Halt request via GPIO input #7
+2017-10-11 00:15:27.196,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:15:27.196,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:15:27.255,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:15:27.313,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:15:27.374,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 00:15:27.605,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 00:15:27.721,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:15:27.838,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:15:27.953,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:15:28.069,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 00:15:28.255,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 00:15:28.440,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 00:15:28.555,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 00:15:28.671,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:15:28.788,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 00:15:28.905,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:15:29.023,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 00:28:12.760,(MainThread),[INFO],main(419),Debug enabled
+2017-10-11 00:28:12.760,(MainThread),[INFO],main(423),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:28:12.763,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:28:12.763,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:28:12.927,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:28:13.092,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:28:13.256,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:28:13.517,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:28:13.598,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:28:23.868,(monitor_26),[INFO],shutdown(350),Halt request via GPIO input #7
+2017-10-11 00:28:23.871,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:28:23.871,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:28:23.930,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:28:23.989,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:28:24.048,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 00:28:24.279,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 00:28:24.395,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:28:24.512,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:28:24.628,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:28:24.746,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 00:28:24.933,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 00:28:25.118,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 00:28:25.234,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 00:28:25.351,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:28:25.467,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 00:28:25.582,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:28:25.698,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 00:29:22.217,(MainThread),[INFO],main(419),Debug enabled
+2017-10-11 00:29:22.219,(MainThread),[INFO],main(423),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:29:22.220,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:29:22.221,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:29:22.384,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:29:22.549,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:29:22.713,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:29:22.974,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:29:23.058,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:29:29.779,(monitor_26),[INFO],shutdown(350),Halt request via GPIO input #7
+2017-10-11 00:29:29.780,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:29:29.780,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:29:29.841,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:29:29.901,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:29:29.960,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 00:29:30.191,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 00:29:30.306,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:29:30.423,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:29:30.539,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:29:30.654,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 00:29:30.841,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 00:29:31.028,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 00:29:31.144,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 00:29:31.260,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:29:31.378,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 00:29:31.493,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:29:31.609,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 00:32:27.674,(MainThread),[INFO],main(423),Debug enabled
+2017-10-11 00:32:27.674,(MainThread),[INFO],main(427),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:32:27.677,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:32:27.677,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:32:27.842,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:32:28.006,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:32:28.170,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:32:28.431,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:32:28.513,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:32:34.529,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 00:32:34.530,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:32:34.530,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:32:34.589,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:32:34.648,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:32:34.707,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 00:32:34.938,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 00:32:35.055,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:32:35.171,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:32:35.286,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:32:35.403,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 00:32:35.588,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 00:32:35.775,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 00:32:35.891,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 00:32:36.006,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:32:36.124,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 00:32:36.240,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:32:36.357,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 00:35:37.346,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 00:35:37.346,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:35:37.348,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:35:37.351,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:35:37.516,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:35:37.680,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:35:37.844,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:35:38.105,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:35:38.187,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:38:40.351,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 00:38:40.351,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:38:40.352,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:38:40.354,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:38:40.516,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:38:40.680,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:38:40.844,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:38:41.105,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:38:41.187,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:38:48.839,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 00:38:48.841,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:38:48.842,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:38:48.900,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:38:48.959,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:38:49.017,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 00:38:49.249,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 00:38:49.365,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:38:49.480,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:38:49.596,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:38:49.713,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 00:38:49.900,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 00:38:50.085,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 00:38:50.201,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 00:38:50.318,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:38:50.434,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 00:38:50.549,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:38:50.664,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 00:49:41.444,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 00:49:41.444,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 00:49:41.446,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 00:49:41.447,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 00:49:41.611,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 00:49:41.775,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 00:49:41.938,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 00:49:42.200,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 00:49:42.282,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 00:49:49.631,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 00:49:49.634,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 00:49:49.634,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:49:49.693,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:49:49.753,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 00:49:49.812,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 00:49:50.043,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 00:49:50.158,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:49:50.275,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:49:50.391,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 00:49:50.507,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 00:49:50.693,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 00:49:50.881,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 00:49:50.996,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 00:49:51.112,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:49:51.229,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 00:49:51.345,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 00:49:51.460,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 19:57:26.780,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 19:57:59.043,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 19:58:41.994,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:00:57.934,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:02:38.878,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:05:13.288,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:06:17.405,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:07:31.328,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 20:07:31.328,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:11:51.066,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 20:11:51.066,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:12:56.500,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:12:56.502,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:12:56.665,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:12:56.829,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:12:56.993,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:12:57.255,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:12:57.335,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:13:30.522,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 20:13:30.523,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:13:30.523,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:13:30.525,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:13:30.688,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:13:30.851,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:13:31.015,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:13:31.276,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:13:31.358,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:20:06.423,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 20:20:06.423,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:20:06.427,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:20:06.427,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:20:06.602,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:20:06.769,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:20:06.933,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:20:07.194,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:20:07.276,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:20:14.744,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 20:20:14.744,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:20:14.746,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:20:14.747,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:20:14.911,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:20:15.075,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:20:15.237,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:20:15.499,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:20:15.579,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:20:39.497,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 20:20:39.500,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 20:20:39.500,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:20:39.559,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:20:39.618,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:20:39.677,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 20:20:39.907,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 20:20:40.023,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:20:40.140,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:20:40.256,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:20:40.371,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 20:20:40.558,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 20:20:40.743,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 20:20:40.859,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 20:20:40.976,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:20:41.091,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 20:20:41.207,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:20:41.322,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 20:28:14.667,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 20:28:14.667,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:28:14.668,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:28:14.670,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:28:14.835,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:28:15.000,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:28:15.164,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:28:15.426,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:28:15.509,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:28:30.243,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 20:28:30.244,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 20:28:30.246,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:28:30.303,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:28:30.362,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:28:30.421,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 20:28:30.654,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 20:28:30.769,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:28:30.884,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:28:31.000,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:28:31.117,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 20:28:31.302,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 20:28:31.487,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 20:28:31.604,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 20:28:31.719,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:28:31.835,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 20:28:31.950,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:28:32.065,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 20:29:22.523,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 20:29:22.523,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:29:22.526,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:29:22.526,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:29:22.691,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:29:22.855,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:29:23.019,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:29:23.280,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:29:23.365,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:29:32.342,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 20:29:32.344,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 20:29:32.344,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:29:32.401,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:29:32.461,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:29:32.520,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 20:29:32.753,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 20:29:32.868,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:29:32.984,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:29:33.101,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:29:33.217,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 20:29:33.404,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 20:29:33.589,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 20:29:33.706,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 20:29:33.822,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:29:33.938,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 20:29:34.053,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:29:34.170,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 20:31:28.559,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 20:31:28.559,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:31:28.562,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:31:28.562,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:31:28.726,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:31:28.891,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:31:29.055,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:31:29.316,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:31:29.400,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:31:35.336,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 20:31:35.338,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 20:31:35.338,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:31:35.397,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:31:35.456,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:31:35.516,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 20:31:35.746,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 20:31:35.862,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:31:35.979,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:31:36.095,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:31:36.211,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 20:31:36.397,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 20:31:36.582,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 20:31:36.698,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 20:31:36.815,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:31:36.931,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 20:31:37.048,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:31:37.164,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 20:39:01.082,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 20:39:01.084,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:39:01.085,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:39:01.085,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:39:01.250,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:39:01.414,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:39:01.578,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:39:01.841,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:39:01.921,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:39:07.848,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 20:39:07.848,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 20:39:07.848,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:39:07.908,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:39:07.969,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:39:08.026,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 20:39:08.259,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 20:39:08.374,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:39:08.490,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:39:08.607,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:39:08.723,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 20:39:08.910,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 20:39:09.095,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 20:39:09.210,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 20:39:09.326,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:39:09.441,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 20:39:09.558,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:39:09.674,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 20:40:17.992,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 20:40:17.993,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:40:17.994,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:40:17.996,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:40:18.158,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:40:18.322,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:40:18.486,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:40:18.749,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:40:18.831,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:40:25.161,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 20:40:25.164,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 20:40:25.164,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:40:25.223,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:40:25.282,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:40:25.339,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 20:40:25.571,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 20:40:25.687,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:40:25.802,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:40:25.918,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:40:26.035,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 20:40:26.220,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 20:40:26.405,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 20:40:26.522,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 20:40:26.638,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:40:26.755,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 20:40:26.871,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:40:26.986,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 20:45:32.072,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 20:45:32.072,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:45:32.073,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:45:32.075,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:45:32.239,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:45:32.403,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:45:32.566,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:45:32.828,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:45:32.910,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:45:40.051,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 20:45:40.052,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 20:45:40.052,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:45:40.111,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:45:40.171,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:45:40.230,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 20:45:40.461,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 20:45:40.578,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:45:40.694,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:45:40.812,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:45:40.927,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 20:45:41.115,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 20:45:41.301,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 20:45:41.415,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 20:45:41.532,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:45:41.648,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 20:45:41.763,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:45:41.880,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 20:47:55.365,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 20:47:55.365,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:47:55.368,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:47:55.369,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:47:55.533,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:47:55.697,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:47:55.861,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:47:56.122,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:47:56.203,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:48:01.724,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 20:48:01.726,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 20:48:01.726,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:48:01.786,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:48:01.845,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:48:01.904,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 20:48:02.135,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 20:48:02.253,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:48:02.368,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:48:02.484,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:48:02.601,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 20:48:02.788,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 20:48:02.973,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 20:48:03.088,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 20:48:03.204,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:48:03.319,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 20:48:03.437,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:48:03.552,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 20:52:25.596,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 20:52:25.598,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 20:52:25.599,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 20:52:25.599,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 20:52:25.763,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 20:52:25.927,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 20:52:26.091,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 20:52:26.351,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 20:52:26.434,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 20:52:32.471,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 20:52:32.473,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 20:52:32.473,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:52:32.533,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:52:32.592,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 20:52:32.653,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 20:52:32.884,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 20:52:33.000,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:52:33.117,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:52:33.233,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 20:52:33.351,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 20:52:33.536,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 20:52:33.723,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 20:52:33.838,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 20:52:33.956,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:52:34.071,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 20:52:34.186,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 20:52:34.302,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 21:02:22.112,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 21:02:22.112,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 21:02:22.115,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 21:02:22.115,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 21:02:22.279,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 21:02:22.444,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 21:02:22.607,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 21:02:22.869,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 21:02:22.950,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 21:02:29.984,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 21:02:29.986,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 21:02:29.986,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:02:30.046,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:02:30.105,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:02:30.164,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 21:02:30.395,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 21:02:30.512,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:02:30.628,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:02:30.743,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:02:30.858,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 21:02:31.045,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 21:02:31.230,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 21:02:31.346,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 21:02:31.463,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:02:31.578,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 21:02:31.694,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:02:31.811,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 21:18:31.013,(MainThread),[INFO],main(426),Debug enabled
+2017-10-11 21:18:31.013,(MainThread),[INFO],main(430),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 21:18:31.016,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 21:18:31.017,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 21:18:31.181,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 21:18:31.345,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 21:18:31.507,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 21:18:31.770,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 21:18:31.852,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 21:18:38.174,(monitor_26),[INFO],shutdown(352),Halt request via GPIO input #7
+2017-10-11 21:18:38.176,(songSuperMarioDies),[DEBUG],playsong(218),Playing song: SuperMarioDies
+2017-10-11 21:18:38.176,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:18:38.234,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:18:38.293,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:18:38.352,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.177631578947 seconds.
+2017-10-11 21:18:38.585,(songSuperMarioDies),[DEBUG],playsong(224),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 21:18:38.700,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:18:38.816,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:18:38.933,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:18:39.049,(songSuperMarioDies),[DEBUG],playsong(224),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 21:18:39.236,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 21:18:39.421,(songSuperMarioDies),[DEBUG],playsong(224),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 21:18:39.538,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 21:18:39.653,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:18:39.767,(songSuperMarioDies),[DEBUG],playsong(224),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 21:18:39.884,(songSuperMarioDies),[DEBUG],playsong(224),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:18:40.000,(songSuperMarioDies),[DEBUG],playsong(224),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 21:25:45.282,(MainThread),[INFO],main(426),Debug enabled
+2017-10-11 21:25:45.282,(MainThread),[INFO],main(430),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 21:25:45.285,(songCharge),[DEBUG],playsong(218),Playing song: Charge
+2017-10-11 21:25:45.286,(songCharge),[DEBUG],playsong(224),Playing note G4 for 0.125 seconds.
+2017-10-11 21:25:45.450,(songCharge),[DEBUG],playsong(224),Playing note C5 for 0.125 seconds.
+2017-10-11 21:25:45.614,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.125 seconds.
+2017-10-11 21:25:45.779,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.2 seconds.
+2017-10-11 21:25:46.042,(songCharge),[DEBUG],playsong(224),Playing note E5 for 0.0625 seconds.
+2017-10-11 21:25:46.124,(songCharge),[DEBUG],playsong(224),Playing note G5 for 0.5 seconds.
+2017-10-11 21:41:45.331,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 21:41:45.331,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 21:41:45.332,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 21:41:45.334,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 21:41:45.497,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 21:41:45.661,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 21:41:45.825,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 21:41:46.088,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 21:41:46.168,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 21:41:51.892,(monitor_26),[INFO],shutdown(353),Halt request via GPIO input #7
+2017-10-11 21:41:51.894,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 21:41:51.894,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:41:51.953,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:41:52.013,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:41:52.072,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 21:41:52.305,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 21:41:52.421,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:41:52.536,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:41:52.653,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:41:52.769,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 21:41:52.954,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 21:41:53.141,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 21:41:53.257,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 21:41:53.374,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:41:53.489,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 21:41:53.604,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:41:53.720,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 21:42:57.282,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 21:42:57.283,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 21:42:57.286,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 21:42:57.286,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 21:42:57.450,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 21:42:57.612,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 21:42:57.778,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 21:42:58.039,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 21:42:58.121,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 21:43:03.450,(monitor_26),[INFO],shutdown(353),Halt request via GPIO input #7
+2017-10-11 21:43:03.453,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 21:43:03.453,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:43:03.510,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:43:03.571,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:43:03.628,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 21:43:03.861,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 21:43:03.976,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:43:04.094,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:43:04.210,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:43:04.325,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 21:43:04.510,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 21:43:04.698,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 21:43:04.813,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 21:43:04.928,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:43:05.046,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 21:43:05.161,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:43:05.276,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 21:43:50.221,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 21:43:50.221,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 21:43:50.223,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 21:43:50.224,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 21:43:50.390,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 21:43:50.553,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 21:43:50.717,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 21:43:50.980,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 21:43:51.062,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 21:43:56.780,(monitor_26),[INFO],shutdown(353),Halt request via GPIO input #7
+2017-10-11 21:43:56.782,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 21:43:56.782,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:43:56.842,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:43:56.901,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:43:56.960,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 21:43:57.193,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 21:43:57.308,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:43:57.424,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:43:57.540,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:43:57.655,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 21:43:57.842,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 21:43:58.028,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 21:43:58.142,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 21:43:58.259,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:43:58.374,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 21:43:58.490,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:43:58.605,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 21:46:00.789,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 21:46:00.789,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 21:46:00.792,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 21:46:00.792,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 21:46:00.957,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 21:46:01.121,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 21:46:01.285,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 21:46:01.548,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 21:46:01.630,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 21:46:07.242,(monitor_26),[INFO],shutdown(353),Halt request via GPIO input #7
+2017-10-11 21:46:07.243,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 21:46:07.243,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:46:07.302,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:46:07.361,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:46:07.420,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 21:46:07.651,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 21:46:07.767,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:46:07.882,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:46:07.999,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:46:08.115,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 21:46:08.301,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 21:46:08.487,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 21:46:08.604,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 21:46:08.720,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:46:08.836,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 21:46:08.953,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:46:09.069,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 21:54:24.026,(MainThread),[INFO],main(425),Debug enabled
+2017-10-11 21:54:24.026,(MainThread),[INFO],main(429),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 21:54:24.029,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 21:54:24.029,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 21:54:24.194,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 21:54:24.357,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 21:54:24.520,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 21:54:24.782,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 21:54:24.865,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 21:57:10.405,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 21:57:10.405,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 21:57:10.407,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 21:57:10.408,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 21:57:10.572,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 21:57:10.736,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 21:57:10.900,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 21:57:11.161,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 21:57:11.243,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 21:57:17.782,(monitor_26),[INFO],shutdown(353),Halt request via GPIO input #7
+2017-10-11 21:57:17.782,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 21:57:17.783,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:57:17.844,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:57:17.903,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 21:57:17.960,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 21:57:18.193,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 21:57:18.309,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:57:18.424,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:57:18.539,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 21:57:18.654,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 21:57:18.841,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 21:57:19.028,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 21:57:19.144,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 21:57:19.260,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:57:19.377,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 21:57:19.493,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 21:57:19.608,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:06:00.460,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 22:06:00.460,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:06:00.461,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:06:00.463,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:06:00.627,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:06:00.789,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:06:00.953,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:06:01.217,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:06:01.298,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:06:07.839,(monitor_26),[INFO],shutdown(353),Halt request via GPIO input #7
+2017-10-11 22:06:07.842,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:06:07.842,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:06:07.900,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:06:07.960,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:06:08.017,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:06:08.249,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:06:08.365,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:06:08.480,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:06:08.598,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:06:08.713,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:06:08.900,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:06:09.085,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:06:09.201,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:06:09.319,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:06:09.434,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:06:09.551,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:06:09.667,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:07:29.131,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 22:07:29.131,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:07:29.134,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:07:29.134,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:07:29.298,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:07:29.461,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:07:29.625,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:07:29.887,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:07:29.970,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:07:36.295,(monitor_26),[INFO],shutdown(353),Halt request via GPIO input #7
+2017-10-11 22:07:36.296,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:07:36.296,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:07:36.355,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:07:36.414,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:07:36.473,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:07:36.706,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:07:36.822,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:07:36.937,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:07:37.052,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:07:37.171,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:07:37.355,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:07:37.542,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:07:37.658,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:07:37.773,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:07:37.891,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:07:38.006,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:07:38.122,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:09:31.069,(MainThread),[INFO],main(424),Debug enabled
+2017-10-11 22:09:31.069,(MainThread),[INFO],main(428),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:09:31.071,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:09:31.072,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:09:31.236,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:09:31.400,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:09:31.565,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:09:31.826,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:09:31.908,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:09:38.338,(monitor_26),[INFO],shutdown(353),Halt request via GPIO input #7
+2017-10-11 22:09:38.341,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:09:38.341,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:09:38.400,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:09:38.457,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:09:38.516,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:09:38.749,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:09:38.864,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:09:38.980,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:09:39.096,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:09:39.213,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:09:39.401,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:09:39.588,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:09:39.703,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:09:39.819,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:09:39.934,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:09:40.052,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:09:40.167,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:11:58.845,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 22:11:58.845,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:11:58.848,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:11:58.848,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:11:59.012,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:11:59.176,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:11:59.339,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:11:59.601,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:11:59.684,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:12:06.108,(monitor_26),[INFO],shutdown(356),Halt request via GPIO input #7
+2017-10-11 22:12:06.111,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:12:06.111,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:12:06.170,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:12:06.229,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:12:06.288,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:12:06.519,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:12:06.635,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:12:06.752,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:12:06.868,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:12:06.983,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:12:07.168,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:12:07.355,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:12:07.471,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:12:07.588,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:12:07.703,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:12:07.819,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:12:07.934,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:17:55.155,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 22:17:55.155,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:17:55.157,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:17:55.158,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:17:55.323,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:17:55.489,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:17:55.651,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:17:55.914,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:17:55.996,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:18:02.430,(monitor_26),[INFO],shutdown(356),Halt request via GPIO input #7
+2017-10-11 22:18:02.431,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:18:02.433,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:18:02.492,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:18:02.551,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:18:02.608,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:18:02.839,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:18:02.956,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:18:03.072,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:18:03.187,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:18:03.303,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:18:03.490,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:18:03.676,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:18:03.790,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:18:03.907,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:18:04.023,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:18:04.138,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:18:04.253,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:18:39.197,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 22:18:39.197,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:18:39.200,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:18:39.201,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:18:39.365,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:18:39.529,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:18:39.693,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:18:39.954,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:18:40.036,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:18:44.236,(monitor_26),[INFO],shutdown(356),Halt request via GPIO input #7
+2017-10-11 22:18:44.239,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:18:44.239,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:18:44.298,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:18:44.357,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:18:44.415,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:18:44.648,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:18:44.765,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:18:44.881,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:18:44.996,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:18:45.111,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:18:45.299,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:18:45.483,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:18:45.599,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:18:45.717,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:18:45.832,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:18:45.947,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:18:46.063,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:20:35.816,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 22:20:35.816,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:20:35.819,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:20:35.819,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:20:35.983,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:20:36.147,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:20:36.312,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:20:36.573,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:20:36.655,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:20:43.183,(monitor_26),[INFO],shutdown(356),Halt request via GPIO input #7
+2017-10-11 22:20:43.184,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:20:43.184,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:20:43.243,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:20:43.303,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:20:43.362,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:20:43.595,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:20:43.711,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:20:43.828,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:20:43.943,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:20:44.059,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:20:44.244,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:20:44.430,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:20:44.546,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:20:44.664,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:20:44.779,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:20:44.895,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:20:45.013,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:21:47.959,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 22:21:47.959,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:21:47.960,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:21:47.961,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:21:48.125,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:21:48.289,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:21:48.451,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:21:48.713,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:21:48.796,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:21:56.153,(monitor_26),[INFO],shutdown(356),Halt request via GPIO input #7
+2017-10-11 22:21:56.154,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:21:56.154,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:21:56.213,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:21:56.273,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:21:56.331,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:21:56.562,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:21:56.678,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:21:56.793,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:21:56.910,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:21:57.026,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:21:57.213,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:21:57.398,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:21:57.515,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:21:57.630,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:21:57.746,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:21:57.862,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:21:57.979,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:31:42.694,(MainThread),[INFO],main(427),Debug enabled
+2017-10-11 22:31:42.694,(MainThread),[INFO],main(431),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:31:42.697,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:31:42.697,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:31:42.861,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:31:43.025,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:31:43.190,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:31:43.451,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:31:43.533,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:31:50.365,(monitor_26),[INFO],shutdown(356),Halt request via GPIO input #7
+2017-10-11 22:31:50.365,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:31:50.367,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:31:50.424,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:31:50.483,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:31:50.542,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:31:50.773,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:31:50.890,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:31:51.006,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:31:51.121,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:31:51.236,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:31:51.423,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:31:51.608,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:31:51.723,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:31:51.839,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:31:51.957,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:31:52.072,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:31:52.187,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:33:34.562,(MainThread),[INFO],main(422),Debug enabled
+2017-10-11 22:33:34.562,(MainThread),[INFO],main(426),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:33:34.563,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:33:34.565,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:33:34.727,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:33:34.891,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:33:35.055,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:33:35.318,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:33:35.398,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:33:42.342,(monitor_26),[INFO],shutdown(355),Halt request via GPIO input #7
+2017-10-11 22:33:42.342,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:33:42.344,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:33:42.401,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:33:42.461,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:33:42.520,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:33:42.753,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:33:42.868,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:33:42.983,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:33:43.099,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:33:43.216,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:33:43.403,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:33:43.588,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:33:43.703,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:33:43.819,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:33:43.936,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:33:44.052,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:33:44.167,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:34:25.872,(MainThread),[INFO],main(422),Debug enabled
+2017-10-11 22:34:25.872,(MainThread),[INFO],main(426),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:34:25.875,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:34:25.875,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:34:26.039,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:34:26.203,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:34:26.367,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:34:26.628,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:34:26.710,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:34:33.246,(monitor_26),[INFO],shutdown(355),Halt request via GPIO input #7
+2017-10-11 22:34:33.247,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:34:33.247,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:34:33.306,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:34:33.367,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:34:33.426,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:34:33.657,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:34:33.773,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:34:33.888,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:34:34.006,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:34:34.124,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:34:34.309,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:34:34.497,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:34:34.614,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:34:34.729,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:34:34.845,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:34:34.960,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:34:35.075,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:35:42.806,(MainThread),[INFO],main(422),Debug enabled
+2017-10-11 22:35:42.808,(MainThread),[INFO],main(426),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:35:42.809,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:35:42.809,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:35:42.973,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:35:43.138,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:35:43.303,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:35:43.565,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:35:43.648,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:35:48.253,(monitor_26),[INFO],shutdown(355),Halt request via GPIO input #7
+2017-10-11 22:35:48.257,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:35:48.259,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:35:48.316,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:35:48.377,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:35:48.436,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:35:48.667,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:35:48.783,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:35:48.898,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:35:49.015,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:35:49.131,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:35:49.318,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:35:49.503,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:35:49.619,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:35:49.734,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:35:49.851,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:35:49.967,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:35:50.082,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.
+2017-10-11 22:36:20.111,(MainThread),[INFO],main(426),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:36:27.894,(monitor_26),[INFO],shutdown(355),Halt request via GPIO input #7
+2017-10-11 22:37:04.413,(MainThread),[INFO],main(422),Debug enabled
+2017-10-11 22:37:04.414,(MainThread),[INFO],main(426),Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.
+2017-10-11 22:37:04.415,(songCharge),[DEBUG],playsong(219),Playing song: Charge
+2017-10-11 22:37:04.415,(songCharge),[DEBUG],playsong(225),Playing note G4 for 0.125 seconds.
+2017-10-11 22:37:04.579,(songCharge),[DEBUG],playsong(225),Playing note C5 for 0.125 seconds.
+2017-10-11 22:37:04.743,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.125 seconds.
+2017-10-11 22:37:04.907,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.2 seconds.
+2017-10-11 22:37:05.171,(songCharge),[DEBUG],playsong(225),Playing note E5 for 0.0625 seconds.
+2017-10-11 22:37:05.253,(songCharge),[DEBUG],playsong(225),Playing note G5 for 0.5 seconds.
+2017-10-11 22:37:11.375,(monitor_26),[INFO],shutdown(355),Halt request via GPIO input #7
+2017-10-11 22:37:11.377,(songSuperMarioDies),[DEBUG],playsong(219),Playing song: SuperMarioDies
+2017-10-11 22:37:11.377,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:37:11.436,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:37:11.494,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0444078947368 seconds.
+2017-10-11 22:37:11.553,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.177631578947 seconds.
+2017-10-11 22:37:11.786,(songSuperMarioDies),[DEBUG],playsong(225),Playing note B5 for 0.0888157894737 seconds.
+2017-10-11 22:37:11.901,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:37:12.017,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:37:12.134,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.0888157894737 seconds.
+2017-10-11 22:37:12.250,(songSuperMarioDies),[DEBUG],playsong(225),Playing note F6 for 0.142105263158 seconds.
+2017-10-11 22:37:12.436,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E6 for 0.142105263158 seconds.
+2017-10-11 22:37:12.622,(songSuperMarioDies),[DEBUG],playsong(225),Playing note D6 for 0.0888157894737 seconds.
+2017-10-11 22:37:12.737,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C6 for 0.0888157894737 seconds.
+2017-10-11 22:37:12.855,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:37:12.970,(songSuperMarioDies),[DEBUG],playsong(225),Playing note E5 for 0.0888157894737 seconds.
+2017-10-11 22:37:13.085,(songSuperMarioDies),[DEBUG],playsong(225),Playing note P for 0.0888157894737 seconds.
+2017-10-11 22:37:13.201,(songSuperMarioDies),[DEBUG],playsong(225),Playing note C5 for 0.0888157894737 seconds.

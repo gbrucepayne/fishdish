@@ -11,20 +11,27 @@ import sys
 import os
 import time
 import logging
+from logging.handlers import RotatingFileHandler
 import threading
 import argparse
 
+
+global log
+
 global _rpi
+global GPIO
+global fd
+
 try:
     import RPi.GPIO as GPIO
     _rpi = True
 except ImportError:
-    print('Error importing RPi.GPIO library')
     if sys.platform.lower().startswith('win32'):
-        print('Simulating GPIO/Fishdish for Windows')
         import simGPIO
+        import simfishdish
         import winsound
         GPIO = simGPIO.GPIO()
+        fd = simfishdish.FishDish(GPIO)
         _rpi = False
     else:
         sys.exit('Unsupported Operating System')
@@ -37,17 +44,33 @@ BUZZER = 8
 BUTTON = 7
 
 global _debug
+global _shutting_down
 global _shutdown
 global startSong
 global endSong
 
-logfileName = 'fishdish.log'
+'''
+logFileName = 'fishdish.log'
 if _rpi:
-    logfileName = '/home/pi/' + logfileName
-logging.basicConfig(filename=logfileName, level=logging.DEBUG,
+    logFileName = '/home/pi/' + logFileName
+
+log_formatter = logging.Formatter(fmt='%(asctime)s.%(msecs)03d,(%(threadName)-10s),'\
+                                  '[%(levelname)s],%(funcName)s(%(lineno)d),%(message)s',
+                                  datefmt='%Y-%m-%d %H:%M:%S')
+log_handler = RotatingFileHandler(logFileName, mode='a', maxBytes=5*1024*1024,
+                                  backupCount=2, encoding=None, delay=0)
+log_handler.setFormatter(log_formatter)
+log_handler.setLevel(logging.DEBUG)
+log = logging.getLogger(logFileName)
+log.setLevel(logging.DEBUG)
+log.addHandler(log_handler)
+'''
+
+'''
+logging.basicConfig(filename=logFileName, level=logging.DEBUG,
                         format='%(asctime)s.%(msecs)03d,(%(threadName)-10s),[%(levelname)s],%(message)s',
                         datefmt='%Y-%m-%d %H:%M:%S')
-
+'''
 
 chargeRingtone = "Charge:d=4,o=5,b=108:8g4,8c,8e,8g.,16e,2g"
 
@@ -56,6 +79,8 @@ smdRingtone = "SuperMarioDies:d=4,o=5,b=76:32c6,32c6,32c6,8p,16b,16f6,16p,16f6,1
 
 class Song:
     """An object with attributes for title, tempo, notes and durations."""
+
+    global log
 
     # Tones source: http://www.phy.mtu.edu/~suits/notefreqs.html
     tones = {
@@ -191,13 +216,13 @@ class Song:
 
     def playsong(self):
         """Plays the tune."""
-        if _debug: logging.debug('Playing song: ' + self.title)
+        if _debug: log.debug('Playing song: ' + self.title)
         tempo = 108.0 / float(self.tempo)
         notes = len(self.notes)
         note = 0
         while note < notes:
             duration = tempo / float(self.durations[note])
-            if _debug: logging.debug('Playing note ' + self.notes[note] + ' for ' + str(duration) + ' seconds.')
+            if _debug: log.debug('Playing note ' + self.notes[note] + ' for ' + str(duration) + ' seconds.')
             pitch = self.tones[self.notes[note]]
             if pitch > 0:
                 if self.piezo:
@@ -214,7 +239,9 @@ class Song:
             note += 1
 
     def play(self):
-        threading.Thread(name='song' + self.title, target=self.playsong).start()
+        songthread = threading.Thread(name='song' + self.title, target=self.playsong)
+        songthread.setDaemon(True)
+        songthread.start()
 
     def parseRTTL(self, ringtone):
         """Parses the Nokia RTTL format text file to create a song made of tempo, notes and durations.
@@ -262,7 +289,7 @@ class Song:
                     elif melodyNote[strPos] == '.':
                         duration = int(1.0/(1.0/float(duration) * 1.5))
                     else:
-                        logging.error('Unidentified character/order while parsing RTTL.')
+                        log.error('Unidentified character/order while parsing RTTL.')
                 strPos += 1
             if note != 'P':
                 if isOctave:
@@ -275,18 +302,23 @@ class Song:
 
 def flashled(ledpin=LED_GRN, frequency=1.0, cycles=1):
     """Toggles a LED """
+
+    global GPIO
+    # global _shutting_down
+
+    # if not _shutting_down:
     if cycles > 0:
         tick = int(cycles)
     elif cycles == 0:
         tick = 1
-    LEDstate = False
+    led_state = False
     while tick > 0:
-        if not LEDstate:
+        if not led_state:
             GPIO.output(ledpin, GPIO.HIGH)
-            LEDstate = True
+            led_state = True
         else:
             GPIO.output(ledpin, GPIO.LOW)
-            LEDstate = False
+            led_state = False
             tick -= 1
         if cycles == 0:
             tick = 1
@@ -297,12 +329,15 @@ def shutdown(channel):
     """ Callback function for a GPIO input event requesting graceful shutdown """
 
     global _debug
+    global _rpi
+    global log
+    global GPIO
+    global _shutting_down
     global _shutdown
     global endSong
 
     SD_DEBOUNCE = 3
     SD_COUNTDOWN = 5
-    SD_CMD = 'sudo shutdown -h now'
 
     debounce_count = 0
     while debounce_count < SD_DEBOUNCE:
@@ -315,12 +350,12 @@ def shutdown(channel):
         debounce_count += 1
         time.sleep(1)
 
-    if not _shutdown:
+    if not _shutting_down:
         if _debug: print("Halt request via GPIO input #" + str(BUTTON))
-        logging.info("Halt request via GPIO input #" + str(BUTTON))
+        log.info("Halt request via GPIO input #" + str(BUTTON))
         if endSong is not None:
             endSong.play()
-        _shutdown = True
+        _shutting_down = True
         tick = SD_COUNTDOWN
         while tick > 0:
             if _debug: print("WARNING: system shutdown in " + str(tick) + " seconds")
@@ -330,30 +365,33 @@ def shutdown(channel):
             time.sleep(0.5)
             tick -= 1
         GPIO.output(LED_RED, GPIO.HIGH)
-        if _debug:
-            GPIO.output(LED_RED, GPIO.LOW)
-            GPIO.cleanup()
-            sys.exit('Virtual shutdown (' + SD_CMD + ')')
-        else:
-            os.system(SD_CMD)
+        _shutdown = True
 
 
 def splash():
-    print('\n')
-    print('\\-\\    \\-------\\')
-    print(' \\ -----       --\\')
-    print('  \\  FISH DISH    \\')
-    print('   /  HEADLESS    O -\\')
-    print('  <.................../')
-    print('\n')
+    """Displays a message to the console"""
+
+    splash_str = '\n' \
+                '\\-\\    \\-------\\ \n' \
+                ' \\ -----       --\\ \n' \
+                '  \\  FISH DISH    \\ \n' \
+                '   /  HEADLESS    O -\\ \n' \
+                '  <.................../ \n'
+    print(splash_str)
 
 
 def main():
     global _debug
+    global log
+    global _rpi
+    global GPIO
+    global fd
+    global _shutting_down
     global _shutdown
     global startSong
     global endSong
 
+    _shutting_down = False
     _shutdown = False
 
     # Derive run options from command line
@@ -362,10 +400,30 @@ def main():
     # TODO: add some parameters to optionally customize/validate the tune played on startup and shutdown
 
     args = parser.parse_args()
-    _debug = args.debug
+    # _debug = args.debug
+
+    logFileName = 'fishdish.log'
+
+    if _rpi:
+        logFileName = '/home/pi/' + logFileName
+
+    log_formatter = logging.Formatter(fmt='%(asctime)s.%(msecs)03d,(%(threadName)-10s),' \
+                                          '[%(levelname)s],%(funcName)s(%(lineno)d),%(message)s',
+                                      datefmt='%Y-%m-%d %H:%M:%S')
+    log_handler = RotatingFileHandler(logFileName, mode='a', maxBytes=5 * 1024 * 1024,
+                                      backupCount=2, encoding=None, delay=0)
+    log_handler.setFormatter(log_formatter)
+    log_handler.setLevel(logging.DEBUG)
+    log = logging.getLogger(logFileName)
+    log.setLevel(logging.DEBUG)
+    log.addHandler(log_handler)
 
     if _debug:
+        log.info('Debug enabled')
         splash()
+
+    if not _rpi:
+        log.info('Error importing RPi.GPIO library. Simulating GPIO/Fishdish for Windows.')
 
     startSong = Song(piezo=_rpi)
     startSong.parseRTTL(chargeRingtone)
@@ -383,7 +441,11 @@ def main():
         for led in leds:
             GPIO.output(led, GPIO.LOW)
 
-        threading.Thread(name='init_flash', target=flashled, args=(LED_GRN, 1.0, 3)).start()
+        # if isinstance(threading.current_thread(), threading._MainThread):
+        init_flash = threading.Thread(name='init_flash', target=flashled, args=(LED_GRN, 1.0, 3))
+        init_flash.setDaemon(True)
+        init_flash.start()
+        # flashled(LED_GRN, 1.0, 3)
 
         startSong.play()
 
@@ -391,19 +453,29 @@ def main():
         GPIO.add_event_detect(BUTTON, GPIO.RISING, callback=shutdown)
         # TODO: create virtual FishDish GUI event handler for PC testing/demo in simGPIO.py
 
-        while True:
+        while not _shutdown:
             pass
+
+        SD_CMD = 'sudo shutdown -h now'
+        if _debug:
+            if fd is not None:
+                fd.cleanup()
+            sys.exit('Virtual shutdown (' + SD_CMD + ')\n')
+        elif _rpi:
+            os.system(SD_CMD)
 
     except KeyboardInterrupt:
         msg = 'Fishdish program halted by keyboard interrupt.'
         print(msg)
-        logging.info(msg)
+        log.info(msg)
 
     except Exception, e:
-        logging.error('Error: ' + str(e))
+        log.error('Error: ' + str(e))
 
     finally:
         GPIO.cleanup()
+        if not _rpi and GPIO is not None:
+            GPIO = None
 
 
 if __name__ == "__main__":
