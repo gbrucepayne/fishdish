@@ -1,5 +1,5 @@
 # fishdish
-Raspberry Pi project for using [Fish Dish] (https://www.pi-supply.com/product/fish-dish-raspberry-pi-led-buzzer-board/) from Pi Supply for headless operation with shutdown button.
+Raspberry Pi project for using [Fish Dish](https://www.pi-supply.com/product/fish-dish-raspberry-pi-led-buzzer-board/) from Pi Supply for headless operation with shutdown button.
 
 - Initializes the Fish Dish GPIO board.
 - Flashes the green LED and plays a tune on start-up.
